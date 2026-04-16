@@ -1,2 +1,2 @@
-# Tik-Tak-Toe-Game
+# Tic-Tac-Toe-Game
 Client Side Challange
